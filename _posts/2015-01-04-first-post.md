@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Data Source
 ---
 
-This is my first post, how exciting!
+All data was sourced from Los Alamos National HIV Sequence Database which can be found here https://www.hiv.lanl.gov/content/index
